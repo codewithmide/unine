@@ -25,7 +25,7 @@ const AccountSection = () => {
           <Button
             link={() => {}}
             postIcon="/icons/arrow.png"
-            children="Try for now"
+            cta="Try for now"
             classname="inter center gap-3 bg-green px-5 rounded-lg"
           />
         </div>
