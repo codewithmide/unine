@@ -20,11 +20,11 @@ const HeroSection = () => {
             methods.
           </p>
           <div className="flex items-center gap-5 w-full md:justify-start sm:justify-center">
-            <div><img src="/images/appstore.png" alt="appstore" /></div>
-            <div><img src="/images/googleplay.png" alt="googleplay" /></div>
+            <div><img src="/svgs/apple.svg" alt="appstore" /></div>
+            <div><img src="/svgs/google.svg" alt="googleplay" /></div>
           </div>
           <div className="flex items-center md:justify-start sm:justify-center">
-            <img src="/icons/rate.png" alt="rate" />
+            <img src="/svgs/rate.svg" alt="rate" />
           </div>
         </div>
         <div className="md:pt-0 pt-10">
