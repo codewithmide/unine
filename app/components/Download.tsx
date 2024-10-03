@@ -1,7 +1,7 @@
 const DownloadSection = () => {
   return (
     <section className="flex items-center md:gap-24 gap-12 flex-col w-full bg-green py-20 lg:py-28">
-      <div className="lg:w-[507px] w-[90%] center flex-col gap-6">
+      <div className="md:w-[507px] w-[90%] center flex-col gap-6">
         <h1 className="inter lg:text-xl lg:leading-[55px] md:text-lg text-[22px] text-center font-bold">
           Get Unine App on Google play or App store
         </h1>

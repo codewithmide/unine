@@ -9,12 +9,12 @@ const AccountSection = () => {
         <div className="md:w-[55%] w-full">
           <img src="/images/account.svg" alt="account" />
         </div>
-        <div className="lg:w-[45%] md:w-[55%] w-[90%] flex flex-col md:items-start items-center xl:gap-10 gap-6 md:pl-6 xl:pl-0">
+        <div className="lg:w-[45%] md:w-[55%] w-[90%] flex flex-col md:items-start items-center xl:gap-10 gap-6 md:pl-6">
           <div className="flex flex-col md:tems-start items-center">
-            <h1 className="inter xl:text-xl lg:text-[26px] text-[18px] text-center md:text-left font-bold w-full">
+            <h1 className="inter xl:text-[32px] lg:text-[26px] text-[18px] text-center md:text-left font-bold w-full">
               Keep your cash flow clear 🚀
             </h1>
-            <h1 className="inter xl:text-xl lg:text-[26px] text-[18px] text-center md:text-left font-bold w-full">
+            <h1 className="inter xl:text-[32px] lg:text-[26px] text-[18px] text-center md:text-left font-bold w-full">
               and keep increasing 🚀
             </h1>
           </div>
@@ -34,10 +34,10 @@ const AccountSection = () => {
       <div className="w-[85%] center md:flex-row flex-col-reverse gap-6 md:gap-0">
         <div className="lg:w-[40%] md:w-[55%] w-[90%] flex flex-col md:items-start items-center gap-12">
           <div className="flex flex-col md:items-start items-center">
-            <h1 className="inter xl:text-xl lg:text-[26px] text-[20px] text-center md:text-left font-bold">
+            <h1 className="inter xl:text-[32px] lg:text-[26px] text-[20px] text-center md:text-left font-bold">
               Manage regular
             </h1>
-            <h1 className="inter xl:text-xl lg:text-[26px] text-[20px] text-center md:text-left font-bold">
+            <h1 className="inter xl:text-[32px] lg:text-[26px] text-[20px] text-center md:text-left font-bold">
               payments easily😜
             </h1>
           </div>

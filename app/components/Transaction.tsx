@@ -12,7 +12,7 @@ const TransactionSection = () => {
           UNINE, you can make practically any transaction.
         </p>
       </div>
-      <div className="flex items-center justify-between flex-wrap w-[85%] lg:gap-[3rem] gap-[2rem]">
+      <div className="flex items-center justify-between flex-wrap w-[90%] xl:gap-[1rem] gap-[2rem]">
         <TransactionCard image="/icons/protect.png" title="Always Protected" description="Shopping with UNINE is even more secure thanks to Buyer Protection."/>
         <TransactionCard image="/icons/reward.png" title="Get Rewards" description="You can keep using your favorite card and keep getting rewards."/>
         <TransactionCard image="/icons/fee.png" title="No Hidden fees" description="You will only be charged when selling goods or requesting payment."/>
